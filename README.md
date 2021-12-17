@@ -13,6 +13,5 @@ pytorch >= 1.10
 
 ```sh
 !pip install transformers
-!pip install numpy
 !pip install torch
 ```
